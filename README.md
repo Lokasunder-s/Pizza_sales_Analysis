@@ -60,7 +60,18 @@ This report presents an analysis of pizza sales data using SQL Server. The datas
       ![image](https://github.com/Lokasunder-s/Pizza_sales_Analysis/assets/154940528/8703c76c-be80-438d-bd8a-08f418c51c72)
 - Bottom 5 Pizzas by Total Orders:
     - List of bottom 5 pizzas based on total number of orders.  
-      ![image](https://github.com/Lokasunder-s/Pizza_sales_Analysis/assets/154940528/e863ad1e-7ceb-4d7c-8b85-2db33c66cc23)  
+      ![image](https://github.com/Lokasunder-s/Pizza_sales_Analysis/assets/154940528/e863ad1e-7ceb-4d7c-8b85-2db33c66cc23)
+
+
+
+## Conclusion:
+Based on the analysis, several insights can be drawn regarding pizza sales performance, including popular pizza categories, sizes, and top-selling pizzas. This information can be valuable for making strategic decisions related to inventory management, marketing promotions, and menu optimization.
+
+## Recommendations:
+- Explore further the factors influencing sales trends observed across different days and months.  
+- Consider promoting top-selling pizzas to enhance overall revenue.  
+- Analyze the performance of bottom-performing pizzas to identify potential areas for improvement.
+
 
 
 
