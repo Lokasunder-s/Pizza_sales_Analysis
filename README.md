@@ -9,7 +9,7 @@ This report presents an analysis of pizza sales data using SQL Server. The datas
       ![image](https://github.com/Lokasunder-s/Pizza_sales_Analysis/assets/154940528/fa6248e7-519f-423a-a600-17cbd9ac2ff4)  
 
 - Total Revenue:  
-    - Sum of total prices from all pizza sales.
+    - Sum of total prices from all pizza sales.  
       ![image](https://github.com/Lokasunder-s/Pizza_sales_Analysis/assets/154940528/7ab5157d-2828-4706-b3c3-64cb672b6046)
 
 - Average Order Value:
